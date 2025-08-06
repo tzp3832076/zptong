@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://httpbin.org/html",
+    "title": "无标题",
+    "content_length": 3623,
+    "links_count": 0,
+    "images_count": 0,
+    "response_time": 1.0498979091644287,
+    "status_code": 200,
+    "timestamp": "2025-08-05 10:16:29.557483"
+  },
+  {
+    "url": "https://httpbin.org/robots.txt",
+    "title": "无标题",
+    "content_length": 30,
+    "links_count": 0,
+    "images_count": 0,
+    "response_time": 0.3351140022277832,
+    "status_code": 200,
+    "timestamp": "2025-08-05 10:16:29.893686"
+  },
+  {
+    "url": "https://httpbin.org/xml",
+    "title": "Wake up to WonderWidgets!",
+    "content_length": 96,
+    "links_count": 0,
+    "images_count": 0,
+    "response_time": 0.9319281578063965,
+    "status_code": 200,
+    "timestamp": "2025-08-05 10:16:30.420163"
+  },
+  {
+    "url": "https://httpbin.org/json",
+    "title": "无标题",
+    "content_length": 411,
+    "links_count": 0,
+    "images_count": 0,
+    "response_time": 2.233366012573242,
+    "status_code": 200,
+    "timestamp": "2025-08-05 10:16:30.721404"
+  }
+]

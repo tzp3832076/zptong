@@ -1,0 +1,5 @@
+url,title,content_length,links_count,images_count,response_time,status_code,timestamp
+https://httpbin.org/html,无标题,3623,0,0,1.0498979091644287,200,2025-08-05 10:16:29.557483
+https://httpbin.org/robots.txt,无标题,30,0,0,0.3351140022277832,200,2025-08-05 10:16:29.893686
+https://httpbin.org/xml,Wake up to WonderWidgets!,96,0,0,0.9319281578063965,200,2025-08-05 10:16:30.420163
+https://httpbin.org/json,无标题,411,0,0,2.233366012573242,200,2025-08-05 10:16:30.721404

@@ -1,0 +1,205 @@
+{
+  "total_pages": 4,
+  "total_links": 0,
+  "total_images": 0,
+  "average_response_time": 1.1375765204429626,
+  "average_content_length": 946.5,
+  "page_analysis": [
+    {
+      "total_characters": 3464,
+      "total_words": 604,
+      "unique_words": 348,
+      "average_word_length": 4.735099337748345,
+      "emails": [],
+      "phone_numbers": [],
+      "urls": [],
+      "word_frequency": [
+        [
+          "the",
+          34
+        ],
+        [
+          "and",
+          25
+        ],
+        [
+          "of",
+          22
+        ],
+        [
+          "to",
+          17
+        ],
+        [
+          "his",
+          14
+        ],
+        [
+          "a",
+          14
+        ],
+        [
+          "in",
+          12
+        ],
+        [
+          "had",
+          8
+        ],
+        [
+          "old",
+          6
+        ],
+        [
+          "by",
+          6
+        ]
+      ],
+      "url": "https://httpbin.org/html",
+      "title": "无标题",
+      "response_time": 1.0498979091644287,
+      "links_count": 0,
+      "images_count": 0
+    },
+    {
+      "total_characters": 24,
+      "total_words": 3,
+      "unique_words": 3,
+      "average_word_length": 7.0,
+      "emails": [],
+      "phone_numbers": [],
+      "urls": [],
+      "word_frequency": [
+        [
+          "Useragent",
+          1
+        ],
+        [
+          "Disallow",
+          1
+        ],
+        [
+          "deny",
+          1
+        ]
+      ],
+      "url": "https://httpbin.org/robots.txt",
+      "title": "无标题",
+      "response_time": 0.3351140022277832,
+      "links_count": 0,
+      "images_count": 0
+    },
+    {
+      "total_characters": 84,
+      "total_words": 12,
+      "unique_words": 10,
+      "average_word_length": 6.083333333333333,
+      "emails": [],
+      "phone_numbers": [],
+      "urls": [],
+      "word_frequency": [
+        [
+          "WonderWidgets",
+          3
+        ],
+        [
+          "Wake",
+          1
+        ],
+        [
+          "up",
+          1
+        ],
+        [
+          "to",
+          1
+        ],
+        [
+          "Overview",
+          1
+        ],
+        [
+          "Why",
+          1
+        ],
+        [
+          "are",
+          1
+        ],
+        [
+          "great",
+          1
+        ],
+        [
+          "Who",
+          1
+        ],
+        [
+          "buys",
+          1
+        ]
+      ],
+      "url": "https://httpbin.org/xml",
+      "title": "Wake up to WonderWidgets!",
+      "response_time": 0.9319281578063965,
+      "links_count": 0,
+      "images_count": 0
+    },
+    {
+      "total_characters": 214,
+      "total_words": 32,
+      "unique_words": 25,
+      "average_word_length": 5.4375,
+      "emails": [],
+      "phone_numbers": [],
+      "urls": [],
+      "word_frequency": [
+        [
+          "title",
+          3
+        ],
+        [
+          "WonderWidgets",
+          3
+        ],
+        [
+          "date",
+          2
+        ],
+        [
+          "type",
+          2
+        ],
+        [
+          "all",
+          2
+        ],
+        [
+          "slideshow",
+          1
+        ],
+        [
+          "author",
+          1
+        ],
+        [
+          "Yours",
+          1
+        ],
+        [
+          "Truly",
+          1
+        ],
+        [
+          "of",
+          1
+        ]
+      ],
+      "url": "https://httpbin.org/json",
+      "title": "无标题",
+      "response_time": 2.233366012573242,
+      "links_count": 0,
+      "images_count": 0
+    }
+  ]
+}
